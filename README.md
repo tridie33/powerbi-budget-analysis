@@ -16,14 +16,14 @@ Ce projet Power BI a pour objectif d’analyser les écarts entre les **dépense
 
 > Analyse globale par région, catégorie IT et type de coût. Visualisation des écarts absolus et relatifs.
 
----
+
 
 ### 2. Suivi temporel des dépenses
 
 
 > Comparaison mensuelle des montants engagés, budgetés et prévus. Running total annuel par catégorie.
 
----
+
 
 ### 3. Décomposition des écarts budgétaires par dimensions
 
